@@ -1,4 +1,7 @@
 Sistem Inventory Lab Dasar IT PLN menggunakan framework Codeigniter
+login 
+email : admin@gmail.com
+password : admin
 
 ###################
 What is CodeIgniter
