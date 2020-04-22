@@ -1,3 +1,5 @@
+Sistem Inventory Lab Dasar IT PLN menggunakan framework Codeigniter
+
 ###################
 What is CodeIgniter
 ###################
